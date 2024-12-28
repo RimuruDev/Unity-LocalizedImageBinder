@@ -17,6 +17,8 @@
 2. Убедитесь, что у вас установлены следующие зависимости:
     - [Unity UI](https://docs.unity3d.com/Packages/com.unity.ugui@latest).
     - [Unity Localization](https://docs.unity3d.com/Packages/com.unity.localization@latest).
+<img width="779" alt="image" src="https://github.com/user-attachments/assets/6822d4a7-a013-4aac-822e-1fa2338db7ba" />
+<img width="760" alt="image" src="https://github.com/user-attachments/assets/8a3b6141-c9ce-40ac-a480-185931e318c3" />
 
 ---
 
