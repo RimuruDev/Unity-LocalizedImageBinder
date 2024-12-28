@@ -45,7 +45,7 @@
 ### Результат
 - `OnUpdateAsset` автоматически настроено на обновление `Image.sprite`.
 - Подписка удаляется при удалении компонента.
-  <img width="677" alt="image" src="https://github.com/user-attachments/assets/example-image.png" />
+<img width="522" alt="image" src="https://github.com/user-attachments/assets/02ba6d51-bc10-4b07-b84d-c82182512cb8" />
 
 ---
 
