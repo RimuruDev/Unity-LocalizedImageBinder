@@ -22,6 +22,7 @@ namespace RimuruDev
     [RequireComponent(typeof(Image))]
     [RequireComponent(typeof(RectTransform))]
     [RequireComponent(typeof(LocalizeSpriteEvent))]
+    [HelpURL("https://github.com/RimuruDev/Unity-LocalizedImageBinder")]
     [AddComponentMenu("0x_/Localization/" + nameof(LocalizedImageBinder))]
     public sealed class LocalizedImageBinder : MonoBehaviour
     {
